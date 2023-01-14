@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/listapi-withReact/static/css/main.bc6572e1.css",
+    "main.js": "/listapi-withReact/static/js/main.f41ae120.js",
+    "index.html": "/listapi-withReact/index.html",
+    "main.bc6572e1.css.map": "/listapi-withReact/static/css/main.bc6572e1.css.map",
+    "main.f41ae120.js.map": "/listapi-withReact/static/js/main.f41ae120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc6572e1.css",
+    "static/js/main.f41ae120.js"
+  ]
+}
